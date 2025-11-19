@@ -14,13 +14,13 @@ public class Tirer : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.Mouse0))
         {
             Shoot();
-            Destroy(projectilePrefab, 5.0f);
         }
     }
 
     void Shoot()
     {
         GameObject projectile = Instantiate(projectilePrefab, shootPoint.position, shootPoint.rotation);
+        
         Rigidbody2D rb = projectile.GetComponent<Rigidbody2D>();
         rb.AddForce(shootPoint.up * bulletforce, ForceMode2D.Impulse);
         Destroy(projectile, 5.0f);
