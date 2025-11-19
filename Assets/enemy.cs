@@ -6,6 +6,7 @@ public class Enemy : MonoBehaviour
 {
     public float moveSpeed;
     public Transform player;
+    public float enemyPv;
     
     void Start()
     {
@@ -20,13 +21,18 @@ public class Enemy : MonoBehaviour
             Vector2 direction = (player.position - transform.position).normalized;
             transform.position = Vector2.MoveTowards(transform.position, player.position, moveSpeed * Time.deltaTime);
         }
+
+        if (enemyPv <= 0)
+        {
+            Destroy(gameObject);
+        }
     }
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
         if (collision.gameObject.CompareTag("Projectile"))
         {
-            Destroy(gameObject);
+            enemyPv --;
         }
     }
 }

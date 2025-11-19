@@ -49,6 +49,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: '::'
   moveSpeed: 3
   player: {fileID: 0}
+  enemyPv: 5
 --- !u!212 &5478771347715597918
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -119,7 +120,7 @@ Rigidbody2D:
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
-  m_Mass: 1
+  m_Mass: 100000
   m_LinearDamping: 0
   m_AngularDamping: 0.05
   m_GravityScale: 0
