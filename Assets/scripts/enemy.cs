@@ -1,5 +1,5 @@
 using UnityEngine;
-using System.Collections;  
+using System.Collections;
 using System.Collections.Generic;
 
 public class Enemy : MonoBehaviour
@@ -9,7 +9,11 @@ public class Enemy : MonoBehaviour
     
     void Start()
     {
-        player = GameObject.FindGameObjectWithTag("Player").transform;
+        GameObject playerObject = GameObject.FindGameObjectWithTag("Player");
+        if (playerObject != null)
+        {
+            player = playerObject.transform;
+        }
     }
 
     // Update is called once per frame
@@ -17,7 +21,14 @@ public class Enemy : MonoBehaviour
     {
         if(player != null)
         {
+            // 1. Calculer le vecteur direction vers le joueur
             Vector2 direction = (player.position - transform.position).normalized;
+            
+            // 2. Calculer l'angle en degrés
+            float angle = Mathf.Atan2(direction.y, direction.x) * Mathf.Rad2Deg;
+
+            transform.rotation = Quaternion.Euler(0f, 0f, angle - 90f); 
+            // 3. Déplacer l'ennemi vers le joueur
             transform.position = Vector2.MoveTowards(transform.position, player.position, moveSpeed * Time.deltaTime);
         }
     }
@@ -27,6 +38,7 @@ public class Enemy : MonoBehaviour
         if (collision.gameObject.CompareTag("Projectile"))
         {
             Destroy(gameObject);
+            Destroy(collision.gameObject);
         }
     }
 }
