@@ -1,16 +1,24 @@
 using UnityEngine;
+using System.Collections;   
+using System.Collections.Generic;
+using UnityEngine.UI;
 
 public class Health_system : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
-    {
-        
-    }
+    public Slider barrevie;
+    public Gradient gradient;
+    public Image fill;
 
-    // Update is called once per frame
-    void Update()
+    public void SetMaxHealth(int pv)
     {
-        
+        barrevie.maxValue = pv;
+        barrevie.value = pv;
+        gradient.Evaluate(1f);
+        fill.color = gradient.Evaluate(1f);
+    }
+    public void SetHealth(int pv)
+    {
+        barrevie.value = pv;
+        fill.color = gradient.Evaluate(barrevie.normalizedValue);
     }
 }
