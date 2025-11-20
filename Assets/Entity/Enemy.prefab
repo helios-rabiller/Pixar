@@ -49,7 +49,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: '::'
   moveSpeed: 3
   player: {fileID: 0}
-  enemyPv: 3
+  enemyPv: 2
   UI: {fileID: 0}
 --- !u!212 &5478771347715597918
 SpriteRenderer:

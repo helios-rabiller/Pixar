@@ -1,96 +1,45 @@
 using UnityEngine;
-using System.Collections;
-using System.Collections.Generic;
 
 public class Tirer : MonoBehaviour
 {
     public GameObject projectilePrefab;
-    public Transform shootPoint;
-    public float bulletforce;
-
-    public int munitionsMaxChargeur = 10; 
-    public int munitionsTotalesMax = 90;  
-    public float tempsRechargement = 1.5f; 
-
     
-    private int munitionsChargeur;
-    private int munitionsTotales;
-    private bool estEnRechargement = false;
+    // CHANGEMENT ICI : On met des crochets [] pour dire "plusieurs points"
+    public Transform[] shootPoints; 
+    
+    public float bulletforce = 20f;
+    public float Cadence = 0.8f; // Cadence plus lente pour un fusil à pompe
+    private float nextFireTime = 0f;
 
-  
-    void Start()
-    {
-
-        munitionsChargeur = munitionsMaxChargeur;
-        munitionsTotales = munitionsTotalesMax;
-        
-        // Afficher l'état initial dans la console
-        Debug.Log($"Munitions initiales: {munitionsChargeur}/{munitionsTotales}");
-    }
-
-    // Update is called once per frame
     void Update()
-    {
-        // 1. Gérer le Tir (Clic Gauche)
-        if (Input.GetKeyDown(KeyCode.Mouse0) && !estEnRechargement)
+    {   
+        if (Input.GetKey(KeyCode.Mouse0) && Time.time >= nextFireTime)
         {
-            if (munitionsChargeur > 0)
-            {
-                Shoot();
-            }
-            else
-            {
-                Debug.Log("Chargeur vide. Veuillez recharger.");
-            }
+            Shoot();
+            nextFireTime = Time.time + Cadence;
         }
-        
-        // 2. Gérer le Rechargement (Touche R)
-        if (Input.GetKeyDown(KeyCode.R) && !estEnRechargement)
-        {
-            // Vérifie s'il manque des balles dans le chargeur ET s'il reste des balles totales
-            if (munitionsChargeur < munitionsMaxChargeur && munitionsTotales > 0)
-            {
-                StartCoroutine(Recharger());
-            }
-            else if (munitionsTotales == 0)
-            {
-                Debug.Log("Plus de munitions de réserve.");
-            }
-        }
-
     }
 
     void Shoot()
     {
-        // Logique de tir existante
-        GameObject projectile = Instantiate(projectilePrefab, shootPoint.position, shootPoint.rotation);
-        
-        Rigidbody2D rb = projectile.GetComponent<Rigidbody2D>();
-        rb.AddForce(shootPoint.up * bulletforce, ForceMode2D.Impulse);
-        Destroy(projectile, 5.0f);
-        
-        // Décrémenter le compteur
-        munitionsChargeur--;
-        
-        Debug.Log($"Tir effectué. Munitions restantes: {munitionsChargeur}/{munitionsTotales}");
-    }
-    
-    // Coroutine pour gérer le délai de rechargement
-    IEnumerator Recharger()
-    {
-        estEnRechargement = true;
-        Debug.Log("Rechargement en cours...");
-
-        yield return new WaitForSeconds(tempsRechargement);
-
-        // Calcul des balles à transférer
-        int ballesManquantes = munitionsMaxChargeur - munitionsChargeur;
-        int ballesATransferer = Mathf.Min(ballesManquantes, munitionsTotales);
-
-        munitionsChargeur += ballesATransferer;
-        munitionsTotales -= ballesATransferer;
-
-        estEnRechargement = false;
-        Debug.Log($"Rechargement terminé. Nouvelles munitions: {munitionsChargeur}/{munitionsTotales}");
+        // CHANGEMENT ICI : On boucle sur chaque point de tir
+        foreach (Transform point in shootPoints)
+        {
+            // On utilise "point" au lieu de "shootPoint"
+            if (point != null) // Sécurité au cas où un point est vide
+            {
+                GameObject projectile = Instantiate(projectilePrefab, point.position, point.rotation);
+                
+                Rigidbody2D rb = projectile.GetComponent<Rigidbody2D>();
+                if (rb != null) 
+                {
+                    // IMPORTANT : La balle part dans la direction du point spécifique (point.up)
+                    // C'est ça qui permet de faire l'effet de dispersion (spread)
+                    rb.AddForce(point.up * bulletforce, ForceMode2D.Impulse);
+                }
+                
+                Destroy(projectile, 2.0f);
+            }
+        }
     }
 }
