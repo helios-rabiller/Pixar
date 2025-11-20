@@ -1,0 +1,3712 @@
+fileFormatVersion: 2
+guid: f0781508099434c4fbb36458d06c3c75
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7777642331470452763
+    second: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 391
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1856552e7cbfeb60800000000000000
+      internalID: 7777642331470452763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 391
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eddc408c36265e8479560a184f1eca04
+      internalID: 803504010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 391
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de25f5494f2530e4b8fd740cc08ffb3b
+      internalID: 1915288102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 391
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b34c690b52a65d14189b65ff1f971da3
+      internalID: 1219008390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 391
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1817d5af220444a9194436203ae9a7
+      internalID: -2084030455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 391
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a081370fcf6b040b7aec63ed1db34c
+      internalID: -928358130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 391
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2659c1e789ba7d04c927e087bb27cf40
+      internalID: -692254571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 391
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8c1b0d47b9131419c040ba240c6cce
+      internalID: -660466880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 391
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ff7f9a3d2d5f74e86134a32de284ad
+      internalID: 946016711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 391
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa4995453c8878448ef9e60d14555a4
+      internalID: 1864156687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 391
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c10329d74a94a4b93ee82fa8466b75
+      internalID: -153459748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 391
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8315c5a99183841bf3be38c3b2f3a0
+      internalID: 755962534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 359
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce03a713268770f47b8386ed682a6a3f
+      internalID: 966953723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 359
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf5619d3b2977b45b972d73ba45d9ed
+      internalID: -124246272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 359
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f51c018363dbe07478b793279c964cb7
+      internalID: 1034058023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 359
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b7e745e453dd741aae5212fd029030
+      internalID: -1858303912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 359
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b95c34a67c344cf43ba81b45bf1c1a5d
+      internalID: -1150794252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_17
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 359
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c207fa610e0194eacc5f407340ced9
+      internalID: 1622962473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 359
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd82c21473aebc4a8670af47863d375
+      internalID: 1801760693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_19
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 359
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3cde62b9a07fbe4f87553159b193805
+      internalID: 1071066058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 359
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ccdfa0a1f0e8794a8c282917eefa09d
+      internalID: 1408031652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_21
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 359
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2fc9695286fad142bd809d33685e022
+      internalID: -794997840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_22
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 359
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3085061ae2ffd3d48a01d91838fa7d3e
+      internalID: 1932356154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_23
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 359
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c13701637a7a741a45721cdbb48cf8
+      internalID: -1158825471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 327
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77044c12f5b598540a7fdc626a1337a1
+      internalID: -1165688142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 327
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5251683f64436bf4b98312f7683ffe00
+      internalID: 1453285094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 327
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696014e415b1d734baf8484863100446
+      internalID: 899171518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 327
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a9be1629dafee448bd7f59ad61e8d2
+      internalID: -202224806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 327
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a293b05d28bec0642a54e93a45457272
+      internalID: 544917966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 327
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df38e99618e2f04392789eb3c3b7231
+      internalID: 408059302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 327
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec4f95cd718321642becf8622aeb989a
+      internalID: -1323014543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 327
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f99a26a52a0874c8487ac665898c73
+      internalID: -1003961457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 327
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e98c4e6b4916124283b474e81eeac35
+      internalID: 1075238444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_33
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 327
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1473c4477f20def4082141a3ab4865bf
+      internalID: 85664880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 327
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 326e676c668b9e34aa7cdae43d6324d4
+      internalID: -1319878776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_35
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 327
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eba61b122fd890449973928e5730889
+      internalID: 590676520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 295
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197e60e4f2eef8647aa3115c86a4a253
+      internalID: -892546079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_37
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 295
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a05efc036d53eb4db6c3641bbd00a83
+      internalID: -1289977222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_38
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 295
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3cc4180e137c540b065fd082eac0a5
+      internalID: 615556209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_39
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 295
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c779dc916d0e249a340aa03bc43a38
+      internalID: 665204018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_40
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 295
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4525153e43f8469469dd8b5147317a5a
+      internalID: -2128946022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_41
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 295
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 326e09a5f2952964cb3dbad182e0c284
+      internalID: 1053835596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_42
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 295
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df070ba7bddd03d43bc3e2301a0fecee
+      internalID: 81456436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_43
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 295
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae61f34101134f419652d6b9dbec70c
+      internalID: -1521190582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_44
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 295
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef141bf4e2e2f449a50833f73687766
+      internalID: 1784580646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_45
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 295
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6a1710b51d6d6419bcf5212c5b7ac2
+      internalID: 1261134322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_46
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 295
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661340e77112bf547893c7913cdbbef7
+      internalID: 413829305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_47
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 295
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4dcf3525cfe0b94a8daa232fc3494cc
+      internalID: 1661892647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 263
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca48f505148f2b49994271e7d7cc83f
+      internalID: 993453853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 263
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b93fe225f084cd4796dbc0389c08a1c
+      internalID: 592830315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 263
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bacce0d3c1bf32d4c950b9a2a752fa54
+      internalID: 531481333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 263
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641e7beab62a9c849b14cf288000f1f4
+      internalID: -46337360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 263
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a021ac625b6044c87e26861b024238
+      internalID: 1504648142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 263
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7020c71793a315d49b30f808e5b168d7
+      internalID: 484405817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 263
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f70900653bf4d74595dc81326db132c
+      internalID: 847480652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 263
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0488e01eff0b64c9a813d12c4a7948
+      internalID: 1058623097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 263
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3abc918c71e014e4e9d33f88d7078885
+      internalID: -1012036661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_57
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 263
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8dc94c15974a34f8568f12141be465
+      internalID: -1853746727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_58
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 263
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ce3f806a94e194482e4a02532900cd
+      internalID: -1299169281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_59
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 263
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3967541e5ae8642a6a268fd1948974
+      internalID: -1125309161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 231
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5884210dd303bc648805e2e83fb52f00
+      internalID: 78769671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_61
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 231
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5ae01e950423845bf360573e3cf007
+      internalID: 2024776002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_62
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 231
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94cceebb767232744afe464dd0b2aa1d
+      internalID: 2123577659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_63
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 231
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5306a75175fc7e643bcd506baca2ac78
+      internalID: -2000254797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_64
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 231
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab5c171b2655b4409d91c63ada1be83
+      internalID: -574765239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_65
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 231
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: becd7da207ed2f1488656b9f8fec9144
+      internalID: 1082160807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_66
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 231
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cefd578f880917147869658a7e11dbaf
+      internalID: -1485702304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_67
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 231
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54517306d09eefd4bb79f1c9aacd56bb
+      internalID: 1975729361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_68
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 231
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8f692e375ffb143aedd9f2ed90eb72
+      internalID: -137672508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_69
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 231
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89bd099d4f7937b4aa1702a0d180372f
+      internalID: -1057242653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_70
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 231
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee9e72ffe4c31d4459cc6075d22cb5b4
+      internalID: 2123313060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_71
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 231
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c4344738dfdca24b891b0a39258b36f
+      internalID: 1075069435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 199
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c237b596654caf4f9d2197704bf728b
+      internalID: 902191537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_73
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 199
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15aa79180384df44bb9efb92d571387e
+      internalID: 118155799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_74
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 199
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d0ff9afe796c9449e005f20750220c
+      internalID: 974151758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_75
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 199
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9939f4e0856306444a63fd30db1e14c7
+      internalID: -1903226492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_76
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 199
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e391caa33aa4045968686ac0bcc1ea
+      internalID: 2075756184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_77
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 199
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f04b0323a90676408140eed0486aa04
+      internalID: 767220520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_78
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 199
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5089423de9356e4b9b00620875f84b2
+      internalID: 1080942949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_79
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 199
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8baa4b0248a85640a9a80298444dc57
+      internalID: -435398616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_80
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 199
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef90fe644b23af43b79172724e8fde4
+      internalID: 747242797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_81
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 199
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c88ea35e2604641a9a4aeb7b32cd83
+      internalID: -1084260337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_82
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 199
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b13153a3d38c7f346819ae75300945bd
+      internalID: 688603599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_83
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 199
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aecb2bb1bf4e2ef468ed00dba723c830
+      internalID: -1965297763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 167
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a3003e83e039f4aad1c8795a667f0b
+      internalID: -1963145337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_85
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 167
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1946f813a9edd214ba21c18b2631e0d3
+      internalID: -462374510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_86
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 167
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece82ab72bfdef842b7d711b81191c7d
+      internalID: 1963600790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_87
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 167
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d2b5b01407732048906a1fec88215a0
+      internalID: -811411531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_88
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 167
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633b37e5894490f4bb82fa2b97e4dffb
+      internalID: -357952088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_89
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 167
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc4f391e5b59fb41998ac9b8a75d417
+      internalID: -1070186134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_90
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 167
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6685613cf98a159468e94808be5d9927
+      internalID: -1410292012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_91
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 167
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2dabffb343e1943a3c28f7ecbb1138
+      internalID: -1639473789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_92
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 167
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46acc163ff7bed344956cbf5eb240211
+      internalID: -836569471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_93
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 167
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b530e47bce2b7154998b15b6dad53f33
+      internalID: 1837433691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_94
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 167
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72747388e4dc7a94da04ce7517c98641
+      internalID: 1971952029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_95
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 167
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfbe879e82f9ec048a94ac7ff51b93b5
+      internalID: -495349000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 135
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee0c98df4d7a41409fe1392b92a6762
+      internalID: -199490347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_97
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 135
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c915ff07e1eff054e99b1d394bfaab81
+      internalID: -372186768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_98
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 135
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2843d29e15ec14e4285483440b705a2f
+      internalID: 1785720025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_99
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 135
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a8ec56afb65f04ea202971d553edde
+      internalID: 335361122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_100
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 135
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e171f301da60d448235adb2424052c
+      internalID: 1090143258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_101
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 135
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ff70bb0d28cdb44b10749b07e41429
+      internalID: -451803257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_102
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 135
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed50193f2e876d4aadca32b89a28a7a
+      internalID: -668856410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_103
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 135
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc2eb01805fc9fe42a47f83d96ffad6f
+      internalID: 921833464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_104
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 135
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40a419574cdfac4c8afa9eb48e716e8
+      internalID: 597802809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_105
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 135
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dfbcfe024299e2429c389e4a42ab63f
+      internalID: -518438766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_106
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 135
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4cd3520e406c5439a0fd7dc571e963
+      internalID: -1325699420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_107
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 135
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262ca6130d757204685d50445f78fa91
+      internalID: 1060976545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 103
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde5e5c68ec1fca4bb2246db0a21d96f
+      internalID: -319128624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_109
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 103
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f68afbd25a848b4d8abce21cceeb89d
+      internalID: -867661020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_110
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 103
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e8b973f8198144ca5d68ae09458c93
+      internalID: -106787775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_111
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 103
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef96750372729244e8da18f7d74dad52
+      internalID: -1842818278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_112
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 103
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf676b7582993d419473d3fc9f2a888
+      internalID: 854569051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_113
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 103
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a0bd7b7b2816d49ae0a07966a52b46
+      internalID: 2046956968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_114
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 103
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ceed632dc03ffc42944b31d236e2d50
+      internalID: -1158744722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_115
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 103
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18df03cdabd08e94ebbc31e5eba701cf
+      internalID: 1702878159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_116
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 103
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6235fb4a36c11144e8a8c35e16b00fc3
+      internalID: -604530150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_117
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 103
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1538ac98177cf7144a42ab7e9f01312f
+      internalID: 194644097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_118
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 103
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb8479cae5def343864d12885f6e045
+      internalID: 69525281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_119
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 103
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d656febc7328e48978ab41d3eb362c
+      internalID: -1201945129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 71
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04247ff8014d884493fb89dbf8d509e
+      internalID: 1912849694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_121
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 71
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83eba888102171143bf8bf2cd9639aad
+      internalID: 839294499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_122
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 71
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02efdfafb4b0a044b9511a7e614f6997
+      internalID: 1212782450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_123
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 71
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f713e155787d9c948b2d4f393edba9b2
+      internalID: -1855158193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_124
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 71
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393eb013e61e9f34abbf8d6abe71f3b0
+      internalID: -1180143208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_125
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 71
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a63d9d8f558834da933cceb820d71e
+      internalID: 1842429838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_126
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 71
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb1c93aaf5239f40be87f17b3d3adcb
+      internalID: -1038330494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_127
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 71
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 152dac9acff9dc1459350526e76ac01d
+      internalID: 1796227046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_128
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 71
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dce84dca36f0d24fbe86efab47b3515
+      internalID: 109441512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_129
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 71
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3606f1eac7bfcb24daa7145f741ef3a0
+      internalID: 15491629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_130
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 71
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 722396f34c5f148408213139266390e7
+      internalID: 842262773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_131
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 71
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a3a411024314e42ad2ee2c11ffddb0
+      internalID: 1065082306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a634a9f39df310942821e49cebaeb064
+      internalID: 755451495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_133
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ed8eaca9778a14dbc4972c0297f6cb
+      internalID: -584403551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_134
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abaa8df982992b849bc7d45fc22535f6
+      internalID: -32673149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_135
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7942c3cce70b21479d92a7862dc0618
+      internalID: -1772054894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_136
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c15692f453dbdca469b9a3f63cfcec29
+      internalID: -829276108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_137
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5c0b343aee7ad409fd5cc980f801cf
+      internalID: 896070366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_138
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de4579d92301874596e3e5182c1ef03
+      internalID: -1504203840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_139
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a9e8a220a582744927ac5296a11eeb
+      internalID: -103337762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_140
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c12ce430e2a9f04096c88f140d57e59
+      internalID: -374979748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_141
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63512342681f9f349bf1948c0db5ae6a
+      internalID: -1502775875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_142
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9e4bff2def50f42a89adb40d0bde74
+      internalID: -744104386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_143
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34189535c2eeb4746bb53bb0dd0e9f09
+      internalID: 893994616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c307cbdda4d6ec4292f82fbbb574bf3
+      internalID: 1646105387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_145
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 7
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8505f88b9c55f419584119ae6c71ba
+      internalID: 1491844626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_146
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 7
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca7be6477c3915440b4731074de0373d
+      internalID: 543351191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_147
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 7
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ef17b06617abf45a4e859b0133b786
+      internalID: 148093194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_148
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 7
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e48ac97faa7c04faea37cabc8b8561
+      internalID: 1313362300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_149
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 7
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d747e5944057b4caffa813ca9aa3f1
+      internalID: -1515635179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_150
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 7
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e32995baecd983f4ba69d020755dbeb3
+      internalID: -1553639216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_151
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 7
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c62379a2b97e4745a8d2e089e038c95
+      internalID: -1489326240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_152
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 7
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66fc833a2a9ca8f4fadbd8f3e80fe51a
+      internalID: 1336537369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_153
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 7
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f3ff20caa093c47a600c03be11997f
+      internalID: -28636538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_154
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 7
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa7f80acbdb35146af5b76321fd5a82
+      internalID: 561204202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_155
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 7
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca5030ea416ec44a8c48e8925725b61
+      internalID: -1615724760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 9017617fe6537da478d1f122e27cf7fc
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceOnImport
+        value: False
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":32.0,"y":32.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_0: 7777642331470452763
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_1: 803504010
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_10: -153459748
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_100: 1090143258
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_101: -451803257
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_102: -668856410
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_103: 921833464
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_104: 597802809
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_105: -518438766
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_106: -1325699420
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_107: 1060976545
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_108: -319128624
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_109: -867661020
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_11: 755962534
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_110: -106787775
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_111: -1842818278
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_112: 854569051
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_113: 2046956968
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_114: -1158744722
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_115: 1702878159
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_116: -604530150
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_117: 194644097
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_118: 69525281
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_119: -1201945129
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_12: 966953723
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_120: 1912849694
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_121: 839294499
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_122: 1212782450
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_123: -1855158193
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_124: -1180143208
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_125: 1842429838
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_126: -1038330494
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_127: 1796227046
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_128: 109441512
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_129: 15491629
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_13: -124246272
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_130: 842262773
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_131: 1065082306
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_132: 755451495
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_133: -584403551
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_134: -32673149
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_135: -1772054894
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_136: -829276108
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_137: 896070366
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_138: -1504203840
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_139: -103337762
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_14: 1034058023
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_140: -374979748
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_141: -1502775875
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_142: -744104386
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_143: 893994616
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_144: 1646105387
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_145: 1491844626
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_146: 543351191
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_147: 148093194
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_148: 1313362300
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_149: -1515635179
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_15: -1858303912
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_150: -1553639216
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_151: -1489326240
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_152: 1336537369
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_153: -28636538
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_154: 561204202
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_155: -1615724760
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_16: -1150794252
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_17: 1622962473
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_18: 1801760693
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_19: 1071066058
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_2: 1915288102
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_20: 1408031652
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_21: -794997840
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_22: 1932356154
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_23: -1158825471
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_24: -1165688142
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_25: 1453285094
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_26: 899171518
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_27: -202224806
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_28: 544917966
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_29: 408059302
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_3: 1219008390
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_30: -1323014543
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_31: -1003961457
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_32: 1075238444
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_33: 85664880
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_34: -1319878776
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_35: 590676520
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_36: -892546079
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_37: -1289977222
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_38: 615556209
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_39: 665204018
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_4: -2084030455
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_40: -2128946022
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_41: 1053835596
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_42: 81456436
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_43: -1521190582
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_44: 1784580646
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_45: 1261134322
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_46: 413829305
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_47: 1661892647
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_48: 993453853
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_49: 592830315
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_5: -928358130
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_50: 531481333
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_51: -46337360
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_52: 1504648142
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_53: 484405817
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_54: 847480652
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_55: 1058623097
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_56: -1012036661
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_57: -1853746727
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_58: -1299169281
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_59: -1125309161
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_6: -692254571
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_60: 78769671
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_61: 2024776002
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_62: 2123577659
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_63: -2000254797
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_64: -574765239
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_65: 1082160807
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_66: -1485702304
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_67: 1975729361
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_68: -137672508
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_69: -1057242653
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_7: -660466880
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_70: 2123313060
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_71: 1075069435
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_72: 902191537
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_73: 118155799
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_74: 974151758
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_75: -1903226492
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_76: 2075756184
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_77: 767220520
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_78: 1080942949
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_79: -435398616
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_8: 946016711
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_80: 747242797
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_81: -1084260337
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_82: 688603599
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_83: -1965297763
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_84: -1963145337
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_85: -462374510
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_86: 1963600790
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_87: -811411531
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_88: -357952088
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_89: -1070186134
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_9: 1864156687
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_90: -1410292012
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_91: -1639473789
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_92: -836569471
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_93: 1837433691
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_94: 1971952029
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_95: -495349000
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_96: -199490347
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_97: -372186768
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_98: 1785720025
+      MSX2 - Metal Gear 2_ Solid Snake - Maps - Stairwell_99: 335361122
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

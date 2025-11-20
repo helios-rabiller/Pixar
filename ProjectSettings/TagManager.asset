@@ -7,6 +7,7 @@ TagManager:
   - Projectile
   - UI
   - Enemy
+  tags: []
   layers:
   - Default
   - TransparentFX
@@ -43,6 +44,21 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 1808808245
+    locked: 0
+  - name: Walkinfront
+    uniqueID: 1108184865
+    locked: 0
+  - name: Collision
+    uniqueID: 3165468751
+    locked: 0
+  - name: Player
+    uniqueID: 1501968385
+    locked: 0
+  - name: Deco
+    uniqueID: 2815024091
     locked: 0
   m_RenderingLayers:
   - Default
