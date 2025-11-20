@@ -119,83 +119,6 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
---- !u!1001 &122723826
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 1245995609139081670, guid: b291cdfec9764a04eaaaa09a633c9381, type: 3}
-      propertyPath: m_Size.x
-      value: 0.4
-      objectReference: {fileID: 0}
-    - target: {fileID: 1245995609139081670, guid: b291cdfec9764a04eaaaa09a633c9381, type: 3}
-      propertyPath: m_Size.y
-      value: 0.4
-      objectReference: {fileID: 0}
-    - target: {fileID: 1245995609139081670, guid: b291cdfec9764a04eaaaa09a633c9381, type: 3}
-      propertyPath: m_Offset.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4244834586872368473, guid: b291cdfec9764a04eaaaa09a633c9381, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 1.8684727
-      objectReference: {fileID: 0}
-    - target: {fileID: 4244834586872368473, guid: b291cdfec9764a04eaaaa09a633c9381, type: 3}
-      propertyPath: m_LocalScale.y
-      value: 2.1189647
-      objectReference: {fileID: 0}
-    - target: {fileID: 4244834586872368473, guid: b291cdfec9764a04eaaaa09a633c9381, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 1.488
-      objectReference: {fileID: 0}
-    - target: {fileID: 4244834586872368473, guid: b291cdfec9764a04eaaaa09a633c9381, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -0.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 4244834586872368473, guid: b291cdfec9764a04eaaaa09a633c9381, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4244834586872368473, guid: b291cdfec9764a04eaaaa09a633c9381, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4244834586872368473, guid: b291cdfec9764a04eaaaa09a633c9381, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4244834586872368473, guid: b291cdfec9764a04eaaaa09a633c9381, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4244834586872368473, guid: b291cdfec9764a04eaaaa09a633c9381, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4244834586872368473, guid: b291cdfec9764a04eaaaa09a633c9381, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4244834586872368473, guid: b291cdfec9764a04eaaaa09a633c9381, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4244834586872368473, guid: b291cdfec9764a04eaaaa09a633c9381, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7531378239790959670, guid: b291cdfec9764a04eaaaa09a633c9381, type: 3}
-      propertyPath: m_Name
-      value: Enemy
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: b291cdfec9764a04eaaaa09a633c9381, type: 3}
 --- !u!1 &681376133
 GameObject:
   m_ObjectHideFlags: 0
@@ -349,6 +272,9 @@ MonoBehaviour:
   projectilePrefab: {fileID: 5537502471526057014, guid: 509312988600fc148a012b4fa892f0e6, type: 3}
   shootPoint: {fileID: 1999058011}
   bulletforce: 10
+  munitionsMaxChargeur: 10
+  munitionsTotalesMax: 90
+  tempsRechargement: 1.5
 --- !u!1 &936374723
 GameObject:
   m_ObjectHideFlags: 0
@@ -750,6 +676,7 @@ GameObject:
   - component: {fileID: 1482906308}
   - component: {fileID: 1482906307}
   - component: {fileID: 1482906309}
+  - component: {fileID: 1482906310}
   m_Layer: 0
   m_Name: Spawner
   m_TagString: Untagged
@@ -802,6 +729,22 @@ MonoBehaviour:
   m_EditorClassIdentifier: '::'
   enemyPrefab: {fileID: 5381644491003603264, guid: 2ea71e49d44358648ad3ba1601b9ebe9, type: 3}
   spawnRate: 5
+  spawnDistance: 10
+  tempsdernierspawn: 0
+--- !u!114 &1482906310
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1482906306}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8a0a9ba15a6ea74cbbee4c287644b6f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: '::'
+  enemyPrefab: {fileID: 4945947173359719126, guid: fa313ded089e49c49b067eb426fc1bdf, type: 3}
+  spawnRate: 20
   spawnDistance: 10
   tempsdernierspawn: 0
 --- !u!1 &1690416422
@@ -980,6 +923,5 @@ SceneRoots:
   - {fileID: 1081499928}
   - {fileID: 681376137}
   - {fileID: 1482906308}
-  - {fileID: 122723826}
   - {fileID: 936374727}
   - {fileID: 1690416425}

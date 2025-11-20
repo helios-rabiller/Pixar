@@ -49,7 +49,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: '::'
   moveSpeed: 3
   player: {fileID: 0}
-  enemyPv: 5
+  enemyPv: 3
   UI: {fileID: 0}
 --- !u!212 &5478771347715597918
 SpriteRenderer:
@@ -95,8 +95,8 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_GlobalIlluminationMeshLod: 0
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 1501968385
+  m_SortingLayer: 4
   m_SortingOrder: 0
   m_Sprite: {fileID: -5782521184205631276, guid: 82ee8997ddf0aac47801f5c46bc6e039, type: 3}
   m_Color: {r: 1, g: 0.9342736, b: 0, a: 1}
