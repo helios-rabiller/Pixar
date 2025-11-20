@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 1245995609139081670}
   m_Layer: 0
   m_Name: Enemy
-  m_TagString: Untagged
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -50,6 +50,7 @@ MonoBehaviour:
   moveSpeed: 3
   player: {fileID: 0}
   enemyPv: 5
+  UI: {fileID: 0}
 --- !u!212 &5478771347715597918
 SpriteRenderer:
   m_ObjectHideFlags: 0

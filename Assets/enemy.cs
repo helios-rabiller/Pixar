@@ -7,13 +7,15 @@ public class Enemy : MonoBehaviour
     public float moveSpeed;
     public Transform player;
     public float enemyPv;
+    public GameObject UI;
+    private bool scoreAdded = false; // Ajoutez cette variable
     
     void Start()
     {
         player = GameObject.FindGameObjectWithTag("Player").transform;
+        UI = GameObject.FindGameObjectWithTag("UI");
     }
 
-    // Update is called once per frame
     void Update()
     {
         if(player != null)
@@ -24,6 +26,12 @@ public class Enemy : MonoBehaviour
 
         if (enemyPv <= 0)
         {
+            // Vérifie que le score n'a pas déjà été ajouté
+            if (!scoreAdded && UI != null && UI.GetComponent<ScoreSys>() != null)
+            {
+                UI.GetComponent<ScoreSys>().AddScore();
+                scoreAdded = true; // Marque que le score a été ajouté
+            }
             Destroy(gameObject);
         }
     }
@@ -32,7 +40,8 @@ public class Enemy : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Projectile"))
         {
-            enemyPv --;
+            enemyPv--;
+            Destroy(collision.gameObject); // Détruit la balle
         }
     }
 }
