@@ -1,0 +1,1568 @@
+fileFormatVersion: 2
+guid: ff885dd362c86b945a92352c8459622b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3544187119223514385
+    second: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_0
+  - first:
+      213: 4105314144155796790
+    second: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_1
+  - first:
+      213: -6528528448761037475
+    second: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_2
+  - first:
+      213: -2951259363414785386
+    second: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_3
+  - first:
+      213: 4051533846074684244
+    second: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_4
+  - first:
+      213: 6748001195140599542
+    second: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_5
+  - first:
+      213: -1593425687976900312
+    second: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_6
+  - first:
+      213: -2715224074680710923
+    second: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_7
+  - first:
+      213: -668597503162410481
+    second: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_8
+  - first:
+      213: -4855762603191766311
+    second: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_9
+  - first:
+      213: 3516555667674095900
+    second: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_10
+  - first:
+      213: 4317109313882702808
+    second: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_11
+  - first:
+      213: -2720978579003249293
+    second: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_12
+  - first:
+      213: -5400167950245306905
+    second: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_13
+  - first:
+      213: 6474487606544871633
+    second: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_14
+  - first:
+      213: -3376823915372061369
+    second: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_15
+  - first:
+      213: 662956195103334550
+    second: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_16
+  - first:
+      213: -658760005217620508
+    second: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_17
+  - first:
+      213: -3398385383883915700
+    second: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_18
+  - first:
+      213: 2929630774562906503
+    second: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_19
+  - first:
+      213: 3899080430992021856
+    second: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_20
+  - first:
+      213: -4920786067130940087
+    second: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_21
+  - first:
+      213: 8971990702216223797
+    second: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_22
+  - first:
+      213: 7712714151467185893
+    second: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_23
+  - first:
+      213: 7656463774166151389
+    second: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_24
+  - first:
+      213: 8464879369607376867
+    second: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_25
+  - first:
+      213: 4534054155363591905
+    second: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_26
+  - first:
+      213: -5331021311473328166
+    second: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_27
+  - first:
+      213: 2715095760013724355
+    second: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_28
+  - first:
+      213: -8082812158655889699
+    second: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_29
+  - first:
+      213: 5747684337645687382
+    second: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_30
+  - first:
+      213: -4480868640725496965
+    second: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_31
+  - first:
+      213: -594735961333978408
+    second: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_32
+  - first:
+      213: 6013843136189259451
+    second: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_33
+  - first:
+      213: 5242719632030740343
+    second: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_34
+  - first:
+      213: 5805463682202773459
+    second: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_35
+  - first:
+      213: -3681196413371668345
+    second: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_36
+  - first:
+      213: -6489931796640633969
+    second: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_37
+  - first:
+      213: 2393905794647269187
+    second: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_38
+  - first:
+      213: -3293476489919836883
+    second: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_39
+  - first:
+      213: -1168634623509944910
+    second: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_40
+  - first:
+      213: 1383765301323986828
+    second: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_41
+  - first:
+      213: -826608498147605301
+    second: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_42
+  - first:
+      213: -730658722374622727
+    second: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_43
+  - first:
+      213: -479633316057725252
+    second: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_44
+  - first:
+      213: -7163202303293769151
+    second: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_45
+  - first:
+      213: 9047645925450535005
+    second: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_46
+  - first:
+      213: -7556323390725492595
+    second: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_47
+  - first:
+      213: 3631469602941530778
+    second: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_48
+  - first:
+      213: 7262023175825675404
+    second: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_49
+  - first:
+      213: 5984832180003735177
+    second: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_50
+  - first:
+      213: -1451450712973647736
+    second: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_51
+  - first:
+      213: 5261824339077433144
+    second: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_52
+  - first:
+      213: -5223846288793691790
+    second: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_53
+  - first:
+      213: -4908513723830546457
+    second: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_54
+  - first:
+      213: -4253491086380379558
+    second: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_55
+  - first:
+      213: -2264922861928461978
+    second: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_56
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 426
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11525d2386b7f2130800000000000000
+      internalID: 3544187119223514385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 426
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6350bc5967109f830800000000000000
+      internalID: 4105314144155796790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_2
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 426
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5df09927f10665a0800000000000000
+      internalID: -6528528448761037475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_3
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 426
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 692cd93de350b07d0800000000000000
+      internalID: -2951259363414785386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_4
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 426
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 453f0ca2190f93830800000000000000
+      internalID: 4051533846074684244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_5
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 426
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fe4444a557b5ad50800000000000000
+      internalID: 6748001195140599542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_6
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 426
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 829872477c303e9e0800000000000000
+      internalID: -1593425687976900312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_7
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 426
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f841170716915ad0800000000000000
+      internalID: -2715224074680710923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_8
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 426
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a9a4efc1aa8b6f0800000000000000
+      internalID: -668597503162410481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 396
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d2f02ba3addc9cb0800000000000000
+      internalID: -4855762603191766311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_10
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 396
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c11e99c8fb05dc030800000000000000
+      internalID: 3516555667674095900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_11
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 396
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d342864c0479eb30800000000000000
+      internalID: 4317109313882702808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_12
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 396
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37d601516642d3ad0800000000000000
+      internalID: -2720978579003249293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_13
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 396
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eddd2e4cdfbe05b0800000000000000
+      internalID: -5400167950245306905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_14
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 396
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d0b6c2cc200ad950800000000000000
+      internalID: 6474487606544871633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_15
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 396
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74d54374a8c1321d0800000000000000
+      internalID: -3376823915372061369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_16
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 396
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69067ce952b433900800000000000000
+      internalID: 662956195103334550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 369
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ede4c8f34d9bd6f0800000000000000
+      internalID: -658760005217620508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_18
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 369
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e38bfaf7286d0d0800000000000000
+      internalID: -3398385383883915700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_19
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 369
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 781efd8eaa328a820800000000000000
+      internalID: 2929630774562906503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_20
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 369
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 069d4f76ef05c1630800000000000000
+      internalID: 3899080430992021856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_21
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 369
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94508f4b42bd5bbb0800000000000000
+      internalID: -4920786067130940087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_22
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 369
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53c94bd020ae28c70800000000000000
+      internalID: 8971990702216223797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_23
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 369
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e6745438a0190b60800000000000000
+      internalID: 7712714151467185893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_24
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 369
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd0f1d6ac39314a60800000000000000
+      internalID: 7656463774166151389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 342
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3efeaf310fa497570800000000000000
+      internalID: 8464879369607376867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_26
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 342
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e6a4da5b323cee30800000000000000
+      internalID: 4534054155363591905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_27
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 342
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adf5897bc586406b0800000000000000
+      internalID: -5331021311473328166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_28
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 342
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca89c26535fda520800000000000000
+      internalID: 2715095760013724355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_29
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 348
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dde7b119a2514df80800000000000000
+      internalID: -8082812158655889699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_30
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 354
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 652927ad370e3cf40800000000000000
+      internalID: 5747684337645687382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_31
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 342
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b8e5046b1c0d1c0800000000000000
+      internalID: -4480868640725496965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_32
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 342
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8daa9815bc21fb7f0800000000000000
+      internalID: -594735961333978408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_33
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 342
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe5b7b3876757350800000000000000
+      internalID: 6013843136189259451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_34
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 342
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77fa82c6ab1e1c840800000000000000
+      internalID: 5242719632030740343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 315
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d7a026d576219050800000000000000
+      internalID: 5805463682202773459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_36
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 318
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7882a88ad53c9ecc0800000000000000
+      internalID: -3681196413371668345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_37
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 315
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8be8b48a612fe5a0800000000000000
+      internalID: -6489931796640633969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_38
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 315
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34f13b303acd83120800000000000000
+      internalID: 2393905794647269187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 293
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d4a3ef4983b42d0800000000000000
+      internalID: -3293476489919836883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_40
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 293
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b5a779600d28cfe0800000000000000
+      internalID: -1168634623509944910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_41
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 293
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c877de5c53f143310800000000000000
+      internalID: 1383765301323986828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_42
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 293
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc4c79353fb4784f0800000000000000
+      internalID: -826608498147605301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_43
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 293
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f1e1d063cd2cd5f0800000000000000
+      internalID: -730658722374622727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_44
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 293
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb6cfed4a000859f0800000000000000
+      internalID: -479633316057725252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 267
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a3ae91571379c90800000000000000
+      internalID: -7163202303293769151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_46
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 267
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d505dff5802bf8d70800000000000000
+      internalID: 9047645925450535005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_47
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 267
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d80f4d749eb822790800000000000000
+      internalID: -7556323390725492595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_48
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 267
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9275ff0d52956230800000000000000
+      internalID: 3631469602941530778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_49
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 267
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c845eb14a93e7c460800000000000000
+      internalID: 7262023175825675404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_50
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 267
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9860371a8256e0350800000000000000
+      internalID: 5984832180003735177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_51
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 267
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 880e73444496bdbe0800000000000000
+      internalID: -1451450712973647736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_52
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 267
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8370739ab51c50940800000000000000
+      internalID: 5261824339077433144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_53
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 267
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 279953b3a7b2187b0800000000000000
+      internalID: -5223846288793691790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_54
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 267
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef43fb46c471ebb0800000000000000
+      internalID: -4908513723830546457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ccf3476bd233c8a41a01d81cb791394e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_0: 3544187119223514385
+      Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_1: 4105314144155796790
+      Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_10: 3516555667674095900
+      Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_11: 4317109313882702808
+      Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_12: -2720978579003249293
+      Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_13: -5400167950245306905
+      Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_14: 6474487606544871633
+      Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_15: -3376823915372061369
+      Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_16: 662956195103334550
+      Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_17: -658760005217620508
+      Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_18: -3398385383883915700
+      Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_19: 2929630774562906503
+      Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_2: -6528528448761037475
+      Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_20: 3899080430992021856
+      Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_21: -4920786067130940087
+      Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_22: 8971990702216223797
+      Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_23: 7712714151467185893
+      Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_24: 7656463774166151389
+      Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_25: 8464879369607376867
+      Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_26: 4534054155363591905
+      Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_27: -5331021311473328166
+      Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_28: 2715095760013724355
+      Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_29: -8082812158655889699
+      Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_3: -2951259363414785386
+      Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_30: 5747684337645687382
+      Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_31: -4480868640725496965
+      Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_32: -594735961333978408
+      Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_33: 6013843136189259451
+      Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_34: 5242719632030740343
+      Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_35: 5805463682202773459
+      Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_36: -3681196413371668345
+      Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_37: -6489931796640633969
+      Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_38: 2393905794647269187
+      Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_39: -3293476489919836883
+      Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_4: 4051533846074684244
+      Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_40: -1168634623509944910
+      Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_41: 1383765301323986828
+      Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_42: -826608498147605301
+      Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_43: -730658722374622727
+      Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_44: -479633316057725252
+      Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_45: -7163202303293769151
+      Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_46: 9047645925450535005
+      Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_47: -7556323390725492595
+      Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_48: 3631469602941530778
+      Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_49: 7262023175825675404
+      Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_5: 6748001195140599542
+      Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_50: 5984832180003735177
+      Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_51: -1451450712973647736
+      Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_52: 5261824339077433144
+      Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_53: -5223846288793691790
+      Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_54: -4908513723830546457
+      Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_55: -4253491086380379558
+      Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_56: -2264922861928461978
+      Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_6: -1593425687976900312
+      Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_7: -2715224074680710923
+      Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_8: -668597503162410481
+      Nintendo 64 - Donkey Kong 64 - Miscellaneous - Font_9: -4855762603191766311
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
