@@ -10,11 +10,33 @@ public class Joueur : MonoBehaviour
     public Vector2 movement;
     public Vector2 mousePos;
 
+    public int maxPV = 100;
+    public int currentPV;
+
+    public Health_system healthSystem;
+
+    void Start()
+    {
+        currentPV = maxPV;
+        healthSystem.SetMaxHealth(maxPV);
+    }
+
     void Update()
     {
         movement.x = Input.GetAxisRaw("Horizontal");
         movement.y = Input.GetAxisRaw("Vertical");
         mousePos = cam.ScreenToWorldPoint(Input.mousePosition);
+        if (Input.GetKeyDown(KeyCode.Space))
+        {
+            TakeDamage(20);
+        }
+
+    }
+
+    void TakeDamage(int damage)
+    {
+        currentPV -= damage;
+        healthSystem.SetHealth(currentPV);
     }
 
     private void FixedUpdate()
