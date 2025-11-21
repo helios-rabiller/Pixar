@@ -15,6 +15,8 @@ public class Joueur : MonoBehaviour
 
     public Health_system healthSystem;
 
+    public GameObject GameOverScreen;
+
     void Start()
     {
         currentPV = maxPV;
@@ -26,11 +28,12 @@ public class Joueur : MonoBehaviour
         movement.x = Input.GetAxisRaw("Horizontal");
         movement.y = Input.GetAxisRaw("Vertical");
         mousePos = cam.ScreenToWorldPoint(Input.mousePosition);
-        if (Input.GetKeyDown(KeyCode.Space))
-        {
-            TakeDamage(20);
-        }
 
+        if (currentPV <= 0)
+        {
+            GameOverScreen.SetActive(true);
+            gameObject.SetActive(false);
+        }
     }
 
     void TakeDamage(int damage)
@@ -46,5 +49,13 @@ public class Joueur : MonoBehaviour
 
         float angle = Mathf.Atan2(lookDir.y, lookDir.x) * Mathf.Rad2Deg - 90f;
         rb.rotation = angle;
+    }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.CompareTag("Enemy"))
+        {
+            TakeDamage(20); 
+        }
     }
 }
