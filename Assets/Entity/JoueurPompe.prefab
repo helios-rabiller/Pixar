@@ -508,6 +508,10 @@ MonoBehaviour:
   cam: {fileID: 0}
   movement: {x: 0, y: 0}
   mousePos: {x: 0, y: 0}
+  maxPV: 100
+  currentPV: 0
+  healthSystem: {fileID: 0}
+  GameOverScreen: {fileID: 0}
 --- !u!114 &8426635292691788052
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -527,8 +531,8 @@ MonoBehaviour:
   - {fileID: 3201942365898954796}
   - {fileID: 2452780237442005965}
   - {fileID: 5858046878928105575}
-  bulletforce: 20
-  Cadence: 0.4
+  bulletforce: 40
+  Cadence: 0.8
 --- !u!212 &6758153584255639412
 SpriteRenderer:
   m_ObjectHideFlags: 0
